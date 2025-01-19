@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fnmiddleton
-- 👀 I’m interested in re-learning how to code with modern technologies
-- 🌱 I’m currently learning JavaScript, HTML/CSS, Express, React, Node, Mongo (MERN stack)
+- 🏡 I have lived near Atlanta, GA since 2004 (with a 1 year sabbatical in Tennessee)
+- 🍌 I'm somewhere around 8 or 9 bananas tall
 - 📫 How to reach me: fraz@midd.io
 
 <!---
