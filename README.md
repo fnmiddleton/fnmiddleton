@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fnmiddleton
 - 🏡 I have lived near Atlanta, GA since 2004 (with a 1 year sabbatical in Tennessee)
-- 🍌 I'm somewhere around 8 or 9 bananas tall
+- 📏 I'm somewhere around 8 or 9 bananas tall
 - 📫 How to reach me: fraz@midd.io
 
 <!---
